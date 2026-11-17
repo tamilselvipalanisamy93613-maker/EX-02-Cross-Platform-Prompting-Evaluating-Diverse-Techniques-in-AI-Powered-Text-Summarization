@@ -57,7 +57,7 @@ Microsoft Copilot explains Blockchain Technology in a systematic and organized m
 
 
 
-
+## Comparison Table
 
 | AI Platform | Explanation Style | Strength | Weakness | Best Suited For |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ Microsoft Copilot explains Blockchain Technology in a systematic and organized m
 
 
 
-
+## Comparison of Al Platforms for Blockchain Text Summarization
 
 <img width="947" height="542" alt="image" src="https://github.com/user-attachments/assets/80a91caf-dfe2-4560-a313-323fdd4ed696" />
 
