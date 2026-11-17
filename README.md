@@ -147,6 +147,10 @@ From an instructional perspective, blockchain is a secure digital record-keeping
 
 
 ## Perplexity AI
+
+
+<img width="432" height="387" alt="image" src="https://github.com/user-attachments/assets/38074763-2c2d-4266-832f-bb8b101b78ac" />
+
 **Zero-Shot Output:**
 
 Blockchain is a decentralized ledger technology that records transactions in connected blocks. It uses cryptographic hashing and consensus mechanisms to ensure security, transparency, and data integrity.
@@ -158,26 +162,29 @@ Blockchain consists of linked blocks containing transaction information. Cryptog
 **Chain-of-Thought Output:**
 
 Step 1: Blockchain is a distributed ledger system.
+
 Step 2: Each block contains transaction information.
+
 Step 3: Cryptographic hashes connect and secure blocks.
+
 Step 4: Consensus mechanisms validate transactions and maintain network reliability.
 
 **Role-Based Output:**
 
 From a research perspective, blockchain is a decentralized technology that enables secure and transparent digital transactions through cryptographic verification and distributed consensus.
 
-<img width="432" height="387" alt="image" src="https://github.com/user-attachments/assets/38074763-2c2d-4266-832f-bb8b101b78ac" />
-
 
 ## Comparison Table
 
-| AI Platform | Explanation Style | Strength | Weakness | Best Suited For |
+## Comparison Table
+
+| **AI Platform** | **Explanation Style** | **Strength** | **Weakness** | **Best Suited For** |
 |---|---|---|---|---|
 | ChatGPT | Academic & Structured | Clear and detailed explanation | Slightly formal | College Students |
 | Claude | Conversational | Easy-to-understand examples | Less technical detail | Beginners |
 | Gemini | Practical & Creative | Real-world applications | Less theoretical depth | Practical Learners |
 | Copilot | Organized & Technical | Clear technical points | Less conversational | Academic Notes |
-
+| Perplexity AI | Research-Oriented | Provides sources and references | Depends on available sources | Research Students |
 
 
 
