@@ -44,10 +44,10 @@ Blockchain stores information in connected blocks, where each block contains tra
 
 Chain-of-Thought Output:
 
-Step 1:   Blockchain is a decentralized digital ledger.
-Step 2:   Transactions are stored in blocks.
-Step 3:   Cryptographic hashing connects the blocks securely.
-Step 4:   Consensus mechanisms validate transactions.
+Step 1: Blockchain is a decentralized digital ledger.
+Step 2: Transactions are stored in blocks.
+Step 3: Cryptographic hashing connects the blocks securely.
+Step 4: Consensus mechanisms validate transactions.
 
 Role-Based Output:
 From an academic perspective, blockchain is a distributed ledger technology that securely records transactions using cryptography and consensus mechanisms. It supports cryptocurrencies, smart contracts, and secure digital transactions.
