@@ -30,28 +30,33 @@ User experience
 
 ## ChatGPT – The Technical Analyst
 
-ChatGPT presents Blockchain Technology as a distributed digital trust system that maintains records without depending on a single controlling authority. It explains how cryptographic hashing connects blocks and protects stored information from unauthorized modifications. It highlights the concept of consensus mechanisms, where network participants agree before transactions are added. A unique example is academic certificate verification, where blockchain can help universities verify certificates and prevent fake credentials. Its explanation focuses on technical accuracy, logical structure and practical understanding.
+ChatGPT presents Blockchain Technology as a decentralized digital system that allows information and transactions to be stored securely without depending on a single central authority. It explains that blockchain consists of a series of blocks, where each block contains transaction details and a unique cryptographic hash. These blocks are connected together to form a continuous chain. ChatGPT highlights the importance of cryptographic hashing, distributed networks and consensus mechanisms in maintaining data security and transparency. It also explains that once information is recorded on the blockchain, changing it becomes extremely difficult. For example, blockchain can be used in academic certificate verification, where universities can securely store student certificates and allow employers to verify their authenticity. This helps reduce fake certificates and improves trust. Its explanation focuses on technical accuracy, structured information and practical applications, making it useful for computer science students.
 
-<img width="820" height="782" alt="image" src="https://github.com/user-attachments/assets/1b068e3e-a0d1-491d-9441-18071ab3e4d6" />
+
+<img width="257" height="252" alt="image" src="https://github.com/user-attachments/assets/fe63f297-4f2c-43bb-8d7d-f243c364c536" />
 
 ## Claude – The Conceptual Storyteller
 
-Claude introduces Blockchain Technology through the idea of a digital record book shared among many participants. Instead of one person controlling the records, everyone in the network maintains a synchronized copy. When a new transaction occurs, the network verifies it before adding it to the chain. Claude connects this concept to supply chain tracking, where customers can trace a product's journey from manufacturer to store. Its analogy-based explanation makes a complex technical concept easier for beginners.
-<img width="882" height="797" alt="image" src="https://github.com/user-attachments/assets/cae7c5c9-a58c-4749-8bf2-662c7566f91a" />
+Claude explains Blockchain Technology using simple language and real-world comparisons. It describes blockchain as a digital record book that is shared among multiple computers in a network. Instead of storing information in one central location, copies of the records are maintained by different participants. Whenever a new transaction takes place, the network checks and verifies the transaction before adding it to the blockchain. Claude explains that each block is connected to the previous block, which helps maintain the order and reliability of information. It uses the example of supply chain management, where customers can track a product from its manufacturing stage to its final delivery. This makes it easier to understand where a product comes from and how it reaches the customer. Claude's explanation uses simple analogies and clear examples, making complex technical concepts easier for beginners to understand.
 
 
+<img width="287" height="155" alt="image" src="https://github.com/user-attachments/assets/8a429f81-a345-4d7a-be3e-cfb9290cd03a" />
 
 ## Google Gemini – The Real-World Explorer
 
-Gemini explains Blockchain Technology by connecting it with modern digital applications. It describes how blockchain can support transparent transactions, secure data sharing and decentralized applications. It uses the example of food supply chains, where blockchain can record the origin, transportation and delivery of products. This helps businesses and customers check product information more transparently. Its practical approach demonstrates how blockchain can solve real-world problems beyond cryptocurrency.
+Google Gemini explains Blockchain Technology by focusing on its practical uses in modern industries. It describes blockchain as a decentralized digital ledger that records transactions across multiple computers in a secure and transparent manner. It explains important concepts such as blocks, digital signatures, cryptographic hashing and distributed networks. Gemini also highlights how blockchain technology can reduce the need for intermediaries and improve trust between users. It provides real-world examples such as food supply chain management, banking, healthcare and digital identity verification. For instance, in the food industry, blockchain can record information about where food products are grown, processed, transported and delivered. Customers and businesses can use these records to trace the product's journey. This approach helps readers understand how blockchain is used beyond cryptocurrencies. Its practical and application-oriented explanation makes it useful for students who want to connect theoretical knowledge with real-world situations.
 
-<img width="1195" height="796" alt="image" src="https://github.com/user-attachments/assets/3d42d7b9-4dae-4a3d-96f1-9a97493ed924" />
+<img width="502" height="207" alt="image" src="https://github.com/user-attachments/assets/9cc42cf0-41a7-4e6e-8f74-c3a65728df43" />
+
 
 ## Microsoft Copilot – The Structured Innovator
 
-Microsoft Copilot explains Blockchain Technology through its important technical components, including blocks, cryptographic hashes, distributed networks and consensus mechanisms. It focuses on how these components work together to maintain reliable digital records. It uses the example of digital identity management, where blockchain can help verify identity information securely. Its organized presentation of technical concepts makes it suitable for academic learning and project development.
+Microsoft Copilot explains Blockchain Technology in a systematic and organized manner by focusing on its major technical components. It introduces blocks, cryptographic hashes, distributed networks and consensus mechanisms, explaining how each component contributes to the functioning of blockchain. It describes how transactions are collected into blocks and verified by network participants before being added to the chain. It also explains that the distributed nature of blockchain improves transparency and reduces dependence on a central authority. Copilot highlights several applications, including digital identity management, financial transactions, healthcare records and supply chain management. For example, blockchain can support digital identity verification by maintaining reliable records that authorized users can verify. Its structured presentation helps readers understand the topic step by step. The explanation is suitable for academic notes, technical learning and project development because it presents important concepts in a clear and organized format.
 
-<img width="897" height="875" alt="image" src="https://github.com/user-attachments/assets/8a0e2dc8-15b6-498b-96e2-7fd151c9633b" />
+<img width="397" height="395" alt="image" src="https://github.com/user-attachments/assets/3dbb0f55-bf25-41e5-98a7-183e54a504b4" />
+
+
+
 
 
 | AI Platform | Explanation Style | Strength | Weakness | Best Suited For |
@@ -62,7 +67,13 @@ Microsoft Copilot explains Blockchain Technology through its important technical
 | Copilot | Organized & Technical | Clear technical points | Less conversational | Academic Notes |
 
 
+
+
+
+
 <img width="947" height="542" alt="image" src="https://github.com/user-attachments/assets/80a91caf-dfe2-4560-a313-323fdd4ed696" />
+
+
 
 
 
