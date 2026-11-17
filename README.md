@@ -42,7 +42,7 @@ Blockchain is a decentralized digital ledger that securely records transactions 
 Few-Shot Output:
 Blockchain stores information in connected blocks, where each block contains transaction data and a unique hash. It provides transparency, security, and immutability. Applications include cryptocurrency, banking, healthcare, and supply chain management.
 
-Chain-of-Thought Output:
+**Chain-of-Thought Output:**
 
 Step 1: Blockchain is a decentralized digital ledger.
 Step 2: Transactions are stored in blocks.
@@ -67,7 +67,7 @@ Blockchain is a decentralized technology that records transactions in a secure a
 Few-Shot Output:
 Blockchain stores transaction details in connected blocks secured by cryptographic hashes. Its decentralized structure improves security and transparency. Common applications include cryptocurrencies, digital identity, and smart contracts.
 
-Chain-of-Thought Output:
+**Chain-of-Thought Output:**
 
 Step 1: Define blockchain as a distributed ledger.
 Step 2: Explain how transaction data is stored in blocks.
@@ -90,7 +90,7 @@ Blockchain is a distributed digital database that stores information in connecte
 Few-Shot Output:
 Blockchain consists of interconnected blocks containing transaction records. Each block is linked using cryptographic hashes. This technology ensures data integrity and supports applications such as digital payments, smart contracts, and supply chain tracking.
 
-Chain-of-Thought Output:
+**Chain-of-Thought Output:**
 
 Step 1: Blockchain is a decentralized database.
 Step 2: Data is stored in individual blocks.
@@ -114,7 +114,7 @@ Blockchain is a decentralized digital ledger that records transactions securely 
 Few-Shot Output:
 Blockchain organizes transaction data into connected blocks. Each block contains a unique hash that helps maintain data security. It is widely used in cryptocurrency, banking, and supply chain management.
 
-Chain-of-Thought Output:
+**Chain-of-Thought Output:**
 
 Step 1: Blockchain is a distributed digital ledger.
 Step 2: Transactions are collected into blocks.
@@ -132,7 +132,7 @@ Blockchain is a decentralized ledger technology that records transactions in con
 Few-Shot Output:
 Blockchain consists of linked blocks containing transaction information. Cryptographic hashes protect the records, while consensus mechanisms validate transactions. Its applications include cryptocurrency, healthcare, finance, and digital identity management.
 
-Chain-of-Thought Output:
+**Chain-of-Thought Output:**
 
 Step 1: Blockchain is a distributed ledger system.
 Step 2: Each block contains transaction information.
