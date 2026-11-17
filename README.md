@@ -36,20 +36,27 @@ ChatGPT presents Blockchain Technology as a decentralized digital system that al
 <img width="257" height="252" alt="image" src="https://github.com/user-attachments/assets/fe63f297-4f2c-43bb-8d7d-f243c364c536" />
 
 ChatGPT
-Zero-Shot Output:
+
+**Zero-Shot Output:**
+
 Blockchain is a decentralized digital ledger that securely records transactions across multiple computers. It uses cryptographic hashing and consensus mechanisms to maintain data security, transparency, and reliability.
 
-Few-Shot Output:
+**Few-Shot Output:**
+
 Blockchain stores information in connected blocks, where each block contains transaction data and a unique hash. It provides transparency, security, and immutability. Applications include cryptocurrency, banking, healthcare, and supply chain management.
 
 **Chain-of-Thought Output:**
 
 Step 1: Blockchain is a decentralized digital ledger.
+
 Step 2: Transactions are stored in blocks.
+
 Step 3: Cryptographic hashing connects the blocks securely.
+
 Step 4: Consensus mechanisms validate transactions.
 
-Role-Based Output:
+**Role-Based Output:**
+
 From an academic perspective, blockchain is a distributed ledger technology that securely records transactions using cryptography and consensus mechanisms. It supports cryptocurrencies, smart contracts, and secure digital transactions.
 
 
@@ -60,21 +67,27 @@ Claude explains Blockchain Technology using simple language and real-world compa
 
 <img width="287" height="155" alt="image" src="https://github.com/user-attachments/assets/8a429f81-a345-4d7a-be3e-cfb9290cd03a" />
 
-claude
-Zero-Shot Output:
+
+**Zero-Shot Output:**
+
 Blockchain is a decentralized technology that records transactions in a secure and transparent digital ledger. It uses cryptography to protect information and maintain data integrity.
 
-Few-Shot Output:
+**Few-Shot Output:**
+
 Blockchain stores transaction details in connected blocks secured by cryptographic hashes. Its decentralized structure improves security and transparency. Common applications include cryptocurrencies, digital identity, and smart contracts.
 
 **Chain-of-Thought Output:**
 
 Step 1: Define blockchain as a distributed ledger.
+
 Step 2: Explain how transaction data is stored in blocks.
+
 Step 3: Describe the role of cryptographic hashing.
+
 Step 4: Explain consensus mechanisms and applications.
 
-Role-Based Output:
+**Role-Based Output:**
+
 In an academic context, blockchain is a decentralized ledger technology that maintains secure and transparent records through cryptographic techniques and distributed consensus.
 
 ## Google Gemini – The Real-World Explorer
@@ -83,21 +96,26 @@ Google Gemini explains Blockchain Technology by focusing on its practical uses i
 
 <img width="502" height="207" alt="image" src="https://github.com/user-attachments/assets/9cc42cf0-41a7-4e6e-8f74-c3a65728df43" />
 
-Google Gemini
-Zero-Shot Output:
+**Zero-Shot Output:**
+
 Blockchain is a distributed digital database that stores information in connected blocks. It provides security, transparency, and decentralization through cryptographic techniques.
 
-Few-Shot Output:
+**Few-Shot Output:**
+
 Blockchain consists of interconnected blocks containing transaction records. Each block is linked using cryptographic hashes. This technology ensures data integrity and supports applications such as digital payments, smart contracts, and supply chain tracking.
 
 **Chain-of-Thought Output:**
 
 Step 1: Blockchain is a decentralized database.
+
 Step 2: Data is stored in individual blocks.
+
 Step 3: Hashing links the blocks together.
+
 Step 4: Consensus mechanisms verify transactions.
 
-Role-Based Output:
+**Role-Based Output:**
+
 From a technical perspective, blockchain is an innovative distributed ledger system that ensures secure data sharing, transparency, and trust without depending on a central authority.
 
 
@@ -107,11 +125,13 @@ Microsoft Copilot explains Blockchain Technology in a systematic and organized m
 
 <img width="397" height="395" alt="image" src="https://github.com/user-attachments/assets/3dbb0f55-bf25-41e5-98a7-183e54a504b4" />
 
-Microsoft Copilot
-Zero-Shot Output:
+
+**Zero-Shot Output:**
+
 Blockchain is a decentralized digital ledger that records transactions securely across multiple computers. It uses cryptography to protect data and prevent unauthorized changes.
 
-Few-Shot Output:
+**Few-Shot Output:**
+
 Blockchain organizes transaction data into connected blocks. Each block contains a unique hash that helps maintain data security. It is widely used in cryptocurrency, banking, and supply chain management.
 
 **Chain-of-Thought Output:**
@@ -121,15 +141,18 @@ Step 2: Transactions are collected into blocks.
 Step 3: Cryptographic hashing connects the blocks.
 Step 4: Consensus algorithms verify transactions.
 
-Role-Based Output:
+**Role-Based Output:**
+
 From an instructional perspective, blockchain is a secure digital record-keeping system that uses decentralization, cryptography, and consensus mechanisms to provide transparency and reliability.
 
 
 ## Perplexity AI
-Zero-Shot Output:
+**Zero-Shot Output:**
+
 Blockchain is a decentralized ledger technology that records transactions in connected blocks. It uses cryptographic hashing and consensus mechanisms to ensure security, transparency, and data integrity.
 
-Few-Shot Output:
+**Few-Shot Output:**
+
 Blockchain consists of linked blocks containing transaction information. Cryptographic hashes protect the records, while consensus mechanisms validate transactions. Its applications include cryptocurrency, healthcare, finance, and digital identity management.
 
 **Chain-of-Thought Output:**
@@ -139,7 +162,8 @@ Step 2: Each block contains transaction information.
 Step 3: Cryptographic hashes connect and secure blocks.
 Step 4: Consensus mechanisms validate transactions and maintain network reliability.
 
-Role-Based Output:
+**Role-Based Output:**
+
 From a research perspective, blockchain is a decentralized technology that enables secure and transparent digital transactions through cryptographic verification and distributed consensus.
 
 <img width="432" height="387" alt="image" src="https://github.com/user-attachments/assets/38074763-2c2d-4266-832f-bb8b101b78ac" />
